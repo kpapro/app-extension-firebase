@@ -2,19 +2,19 @@
   q-list
     q-item(clickable to="/docs")
       q-item-section(avatar)
-        q-icon(name="calendar_today")
+        q-icon(name="code")
       q-item-section
         q-item-label QFirebase docs
         q-item-label(caption) Documentation
     q-item(clickable to="/demo")
       q-item-section(avatar)
-        q-icon(name="calendar_today")
+        q-icon(name="code")
       q-item-section
         q-item-label QFirebase demo
         q-item-label(caption) Interactively play with properties
     q-item(clickable to="/examples")
       q-item-section(avatar)
-        q-icon(name="calendar_today")
+        q-icon(name="code")
       q-item-section
         q-item-label QFirebase examples
         q-item-label(caption) Examples of how to do it
